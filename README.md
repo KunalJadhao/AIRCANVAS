@@ -1,4 +1,4 @@
-# 🎨 AiriCanvas  
+# 🎨 AirCanvas  
 
 **A virtual canvas powered by OpenCV, MediaPipe, and Python — draw in the air using just your fingers!** 🖐️✨  
 
@@ -30,6 +30,6 @@
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/AiriCanvas.git
-cd AiriCanvas
+git clone https://github.com/KunalJadhao/AirCanvas.git
+cd AirCanvas
 
