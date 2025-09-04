@@ -29,7 +29,45 @@
 ## 🚀 Installation  
 
 Clone the repository:  
-```bash
+#```bash
 git clone https://github.com/KunalJadhao/AirCanvas.git
 cd AirCanvas
 
+---
+Install manually:
+
+pip install opencv-python mediapipe numpy
+
+---
+▶️ Usage
+
+Run the project: AIRCANVAS.py
+
+---
+📦 Requirements
+
+If you don’t want to use requirements.txt, here are the dependencies:
+
+opencv-python
+mediapipe
+numpy
+
+---
+✨ Future Improvements
+
+Add shape drawing (circle, rectangle, etc.)
+
+Save your drawing as an image automatically
+
+Add gesture-based undo/redo
+
+Multi-hand drawing support 🎨✋✋
+
+---
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
