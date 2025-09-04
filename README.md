@@ -29,7 +29,7 @@
 ## 🚀 Installation  
 
 Clone the repository:  
-#```bash
+```bash
 git clone https://github.com/KunalJadhao/AirCanvas.git
 cd AirCanvas
 
